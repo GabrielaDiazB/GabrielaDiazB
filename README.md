@@ -1,17 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gabriela Diaz
-=====================================================================================================================================
+# Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Gabriela Diaz!
+👩‍💻 **Full-stack developer crafting digital magic** | 🌌 **Space & Cyberpunk Enthusiast** | ☕ **Fueled by coffee**
 
-Full-Stack Developer
---------------------
+</br>
 
-* 🌍  I'm based in Lima, Peru
+## 🌟 About me
+
+* 📍 Based in: Lima, Peru 🇵🇪
 * 🖥️  See my portfolio at [GD](http://gabrieladiaz-portfolio.pages.dev/en/)
-* ✉️  You can contact me at [gabriela.dbravo@gmail.com](mailto:gabriela.dbravo@gmail.com)
-* 🤝  I'm open to collaborating on crazy projects
+* 📬  You can contact me at [gabriela.dbravo@gmail.com](mailto:gabriela.dbravo@gmail.com)
+* 🤝  Open for collaboration on exciting and crazy projects!
 
-<h2 align="left">Hi 👋! My name is Gabriela and I'm a FullStack Developer</h2>
+</br>
 
-###
+## 🛠️ Tech Stack
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
@@ -97,21 +98,35 @@ Full-Stack Developer
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
 </div>
 
-### Socials
+</br>
+
+## 🚀 Currently working on
+- 🛠️ Dynamic API documentation tool (React, TypeScript)
+- 📦 [Cargo Express Redesign](#): UI/UX, SEO & Tracking Dashboard
+- 🛍️ Ecommerce redesign (WordPress & WooCommerce)
+- 📱 New App incoming!
+
+</br>
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <p align="left"> <a href="https://www.github.com/GabrielaDiazB" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/gabrieladiazbravo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>  
+  <img src="https://streak-stats.demolab.com?user=GabrielaDiazB&locale=en&mode=weekly&theme=rose_pine&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielaDiazB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true" height="150" alt="languages graph"  />
 </div>
-
-
-###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/GabrielaDiazB/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/GabrielaDiazB/count.svg?" alt="Profile Views" />
+</div>
+<div align="center">
+  <a href="https://github.com/GabrielaDiazB">
+    <img src="https://img.shields.io/github/followers/GabrielaDiazB?style=social" alt="GitHub Followers" />
+  </a>
 </div>
 
-###
+</br>
 
-<img align="right" height="60" src="https://gabrieladiaz-portfolio.pages.dev/favicons/favicon.ico"  />
+<div align="center">
+✨ Happy Coding! ✨
+</div>
 
-###

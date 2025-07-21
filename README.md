@@ -102,8 +102,6 @@
 
 ## 🚀 Currently working on
 - 🛠️ Dynamic API documentation tool (React, TypeScript)
-- 📦 [Cargo Express Redesign](#): UI/UX, SEO & Tracking Dashboard
-- 🛍️ Ecommerce redesign (WordPress & WooCommerce)
 - 📱 New App incoming!
 
 </br>
